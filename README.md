@@ -1,2 +1,3 @@
 # CytoscapeDataFormatting
-Used to parse data into a format usable with Cytoscape
+Used to parse data into a format usable with Cytoscape  
+
